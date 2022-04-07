@@ -1,0 +1,266 @@
+
+.sitefooter{
+    background: #313844;
+    width: 1520px;
+    height: 564px;
+    display: flex;
+    
+    
+}
+
+.footerheader{
+    position: absolute;
+    width: 495px;
+    height: 40px;
+    left: 473px;
+    top: 35px; 
+    
+}
+
+/*Shubhakshika Education Society*/
+.footerheader h3{ 
+position:relative;
+top:-35px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 40px;
+color: #F5F7FA;
+}
+
+.midfooter{
+    position: absolute;
+    width:1402px;
+    height:340px;
+    top:100px;
+    left:50px;
+    
+}
+/*About Us*/
+.aboutheading{
+position: absolute;
+width: 124px;
+height: 35px;
+left: 0px;
+top: -65px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+}
+
+.aboutus{
+    position: absolute;
+    left: 141px;
+    top: 108px;
+    width:300px;
+    height:198px;
+}
+
+.content{
+position: absolute;
+width: 300px;
+height: 145px;
+left: 0px;
+top: 28px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+color: #FFFFFF;
+}
+/*site links*/
+.sitelinks{
+position: absolute;
+width: 150px;
+height: 191px;
+left: 501px;
+top: 88px;
+
+}
+.sitelinksheading{
+position: absolute;
+width: 162px;
+height: 35px;
+left: 0px;
+top: -50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+}
+
+.footer-sitelinks {
+    position: absolute;
+    width: 250px;
+    height: 145px;
+    left: -30px;
+    top: 50px;
+    list-style: none;
+    line-height: 29px;
+}
+
+.footer-sitelinks a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-sitelinks a:active,.footer-sitelinks a:focus,.footer-sitelinks a:hover
+{
+  color:#00A7F6;
+  text-decoration:none;
+}
+
+/*get involved*/
+.getinvolved{
+position: absolute;
+width: 176px;
+height: 125px;
+left: 762px;
+top: 98px;
+
+}
+.getinvolvedheading{
+    position: absolute;
+    width: 176px;
+    height: 35px;
+    left: 0px;
+    top: -60px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    color: #FFFFFF; 
+}
+
+.footer-getinvolvedlinks{
+    position: absolute;
+    width: 250px;
+    height: 145px;
+    left:-40px;
+    top: 50px;
+    list-style: none;
+    line-height: 29px;
+}
+
+.footer-getinvolvedlinks a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-getinvolvedlinks a:active,.footer-getinvolvedlinks a:focus,.footer-getinvolvedlinks a:hover
+{
+  color:#00A7F6;
+  text-decoration:none;
+}
+
+/*our project*/
+.ourproject{
+position: absolute;
+width: 315px;
+height: 250px;
+left: 1040px;
+top: 98px;
+}
+.ourprojectheading{
+position: absolute;
+width: 168px;
+height: 35px;
+left: 0px;
+top: -60px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 35px;
+color: #FFFFFF;
+}
+.footer-ourprojectlinks{
+    position: absolute;
+    width: 315px;
+    height: 145px;
+    left: -40px;
+    top: 50px;
+    list-style: none;
+    line-height: 29px;
+}
+
+.footer-ourprojectlinks a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-ourprojectlinks a:active,.footer-ourprojectlinks a:focus,.footer-ourprojectlinks a:hover
+{
+  color:#00A7F6;
+  text-decoration:none;
+}
+
+.socialmedia{
+position: absolute;
+width: 385px;
+height: 133px;
+left: 498px;
+top: 322px;
+
+}
+
+.socialmediaheading{
+position: absolute;
+width: 335px;
+height: 0px;
+left: 0px;
+top: -50px;
+justify-content: center;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 33px;
+color: #F5F7FA
+}
+
+.social-icons{
+    position:relative;
+    top:30px;
+    left:-20px;
+ 
+    
+}
+.social-icons ul{
+    list-style-type: none;
+    display: flex;
+    position:relative;
+    padding: 10px 20px;
+    font-size:35px;
+    top:0px;
+}
+
+.social-icons ul a{
+    padding:10px 20px;
+}
+
+.social-icons a:hover{
+    background-color:transparent;
+    opacity:0.3;
+    
+}
